@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XGC5345456.com.streamwide.totrInHouseDev",
+        "paths": ["*","/ios/TOTR/jitsiVideoConf"]
+      }
+    ]
+  }
+}
